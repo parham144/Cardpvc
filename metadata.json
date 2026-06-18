@@ -1,0 +1,6 @@
+{
+  "name": "PVC Card Ordering and Showcase",
+  "description": "Interactive PVC and RFID Smart Card ordering and physical customization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
